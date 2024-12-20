@@ -1,0 +1,74 @@
+name: era.reynolds
+description: matrix
+version: 0.0.1
+author: elhic3ib.fpbyjaty@ggdbklox.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: erareynolds
+  parentArtefactID: elhic3ibfpbyjatyggdbkloxcomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:34:05'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:34:05'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:34:05.548922Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '1563291044'
+  createdAt: '2024-12-20T20:34:05.548922Z'
+  type: plibMaven
+projectDependencies:
+  '316':
+    projectUID: 316
+    projectName: sebrina.mueller
+    repositoryPath: gitUri=http://gitserver:3000/dev_IY8iV4IF_team_512/dev_IY8iV4IF_project_316.git&subPath=
+    version: sebrina.mueller/3.0.8.893
+    isDefault: false
+    author: null
+    createdAt: '2024-12-20 20:34:05'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/sebrina.mueller/Barbie_BeahanJoanna_HandIan_Lesch_Sr_:
+    author: elhic3ib.fpbyjaty@ggdbklox.com
+    createdAt: '2024-12-20 20:34:06'
+    configurations:
+      pipelineConfigurations/sebrina.mueller/Barbie_BeahanJoanna_HandIan_Lesch_Sr_/dev:
+        name: dev
+        author: null
+        createdAt: '2024-12-20 20:34:06'
+      pipelineConfigurations/sebrina.mueller/Barbie_BeahanJoanna_HandIan_Lesch_Sr_/dev2:
+        name: dev2
+        author: null
+        createdAt: '2024-12-20 20:34:06'
+      pipelineConfigurations/sebrina.mueller/Barbie_BeahanJoanna_HandIan_Lesch_Sr_/dev3:
+        name: dev3
+        author: null
+        createdAt: '2024-12-20 20:34:06'
+    basePipeline: 316/pipelines/Barbie_BeahanJoanna_HandIan_Lesch_Sr_
