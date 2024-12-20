@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: elhic3ib.fpbyjaty@ggdbklox.com
     createdAt: '2024-12-20 20:34:06'
     configurations:
-      pipelineConfigurations/sebrina.mueller/Barbie_BeahanJoanna_HandIan_Lesch_Sr_/dev:
-        name: dev
-        author: null
-        createdAt: '2024-12-20 20:34:06'
       pipelineConfigurations/sebrina.mueller/Barbie_BeahanJoanna_HandIan_Lesch_Sr_/dev2:
         name: dev2
-        author: null
-        createdAt: '2024-12-20 20:34:06'
-      pipelineConfigurations/sebrina.mueller/Barbie_BeahanJoanna_HandIan_Lesch_Sr_/dev3:
-        name: dev3
         author: null
         createdAt: '2024-12-20 20:34:06'
     basePipeline: 316/pipelines/Barbie_BeahanJoanna_HandIan_Lesch_Sr_
